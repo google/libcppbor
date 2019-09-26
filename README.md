@@ -214,3 +214,6 @@ and then copy the encoding of that sub-structure, without bothering to
 parse the rest.
 
 The full parser is implemented with the stream parser.
+
+### Disclaimer
+This is not an officially supported Google product
