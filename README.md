@@ -1,4 +1,6 @@
 # This project is no longer being maintained and is archived.
+- New project: https://android.googlesource.com/platform/system/libcppbor/
+- Also available at: https://cs.android.com/android/platform/superproject/+/master:system/libcppbor/
 
 LibCppBor: A Modern C++ CBOR Parser and Generator
 ==============================================
