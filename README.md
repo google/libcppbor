@@ -1,3 +1,5 @@
+# This project is no longer being maintained and is archived.
+
 LibCppBor: A Modern C++ CBOR Parser and Generator
 ==============================================
 
